@@ -21,8 +21,6 @@ body{
     width: 1440px;
     height: 100%;
   }
-
-
 }
 
 .container_body::before{
@@ -267,7 +265,7 @@ body{
 }
 
 .card{
-  max-width: 440px;
+  max-width: 360px;
   height: 380px;
   background: #040915;
   border-radius: 20px;
